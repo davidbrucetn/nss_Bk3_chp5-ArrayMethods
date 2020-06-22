@@ -1,0 +1,18 @@
+html {
+    color: dimgray;
+}
+.card__business {
+    border: 1px solid rgb(119, 107, 107);
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px; 
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
+}
+button {
+    margin-top: 1em;
+    border-radius: 5px;
+}
+
+.section__header {
+    color: sienna;
+}
